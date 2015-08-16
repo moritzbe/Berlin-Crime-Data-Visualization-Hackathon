@@ -1,0 +1,1733 @@
+[
+    {
+        "Bahnhof": "Adenauerplatz",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 62,
+        "Sachbeschädigung": "-",
+        "Drogen": 11,
+        "Ticket-Betrug": 176,
+        "Sonstiges": 14,
+        "Gesamt": 271,
+        "Gesamt2": 81
+    },{
+        "Bahnhof": "Afrikanische Str.",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 8,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 51,
+        "Sonstiges": 1,
+        "Gesamt": 65,
+        "Gesamt2": 13
+    },{
+        "Bahnhof": "Alexanderplatz",
+        "Gewalt": 154,
+        "Diebstahl & Einbruch": 354,
+        "Sachbeschädigung": 49,
+        "Drogen": 71,
+        "Ticket-Betrug": 919,
+        "Sonstiges": 163,
+        "Gesamt": 1710,
+        "Gesamt2": 628
+    },{
+        "Bahnhof": "Alt-Mariendorf",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 59,
+        "Sachbeschädigung": 12,
+        "Drogen": 4,
+        "Ticket-Betrug": 39,
+        "Sonstiges": 9,
+        "Gesamt": 136,
+        "Gesamt2": 88
+    },{
+        "Bahnhof": "Altstadt Spandau",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 10,
+        "Sachbeschädigung": 5,
+        "Drogen": 10,
+        "Ticket-Betrug": 46,
+        "Sonstiges": 3,
+        "Gesamt": 78,
+        "Gesamt2": 29
+    },{
+        "Bahnhof": "Alt-Tegel",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 34,
+        "Sachbeschädigung": 6,
+        "Drogen": "-",
+        "Ticket-Betrug": 11,
+        "Sonstiges": 20,
+        "Gesamt": 83,
+        "Gesamt2": 52
+    },{
+        "Bahnhof": "Alt-Tempelhof",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 24,
+        "Sachbeschädigung": 8,
+        "Drogen": 3,
+        "Ticket-Betrug": 72,
+        "Sonstiges": 3,
+        "Gesamt": 113,
+        "Gesamt2": 38
+    },{
+        "Bahnhof": "Amrumer Str.",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 60,
+        "Sachbeschädigung": 4,
+        "Drogen": 9,
+        "Ticket-Betrug": 208,
+        "Sonstiges": 18,
+        "Gesamt": 313,
+        "Gesamt2": 87
+    },{
+        "Bahnhof": "Augsburger Str.",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": "-",
+        "Sachbeschädigung": 4,
+        "Drogen": 6,
+        "Ticket-Betrug": 9,
+        "Sonstiges": 8,
+        "Gesamt": 28,
+        "Gesamt2": 11
+    },{
+        "Bahnhof": "Bayerischer Platz",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 28,
+        "Sachbeschädigung": 4,
+        "Drogen": 3,
+        "Ticket-Betrug": 85,
+        "Sonstiges": 19,
+        "Gesamt": 147,
+        "Gesamt2": 43
+    },{
+        "Bahnhof": "Berliner Str.",
+        "Gewalt": 30,
+        "Diebstahl & Einbruch": 42,
+        "Sachbeschädigung": 13,
+        "Drogen": 3,
+        "Ticket-Betrug": 198,
+        "Sonstiges": 21,
+        "Gesamt": 307,
+        "Gesamt2": 88
+    },{
+        "Bahnhof": "Bernauer Str.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 58,
+        "Sachbeschädigung": "-",
+        "Drogen": 4,
+        "Ticket-Betrug": 161,
+        "Sonstiges": 5,
+        "Gesamt": 236,
+        "Gesamt2": 70
+    },{
+        "Bahnhof": "Biesdorf-Süd",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 35,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 56,
+        "Sonstiges": 1,
+        "Gesamt": 97,
+        "Gesamt2": 40
+    },{
+        "Bahnhof": "Birkenstr.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 8,
+        "Drogen": 8,
+        "Ticket-Betrug": 176,
+        "Sonstiges": 6,
+        "Gesamt": 223,
+        "Gesamt2": 41
+    },{
+        "Bahnhof": "Bismarckstr.",
+        "Gewalt": 19,
+        "Diebstahl & Einbruch": 128,
+        "Sachbeschädigung": 2,
+        "Drogen": 8,
+        "Ticket-Betrug": 173,
+        "Sonstiges": 13,
+        "Gesamt": 343,
+        "Gesamt2": 157
+    },{
+        "Bahnhof": "Blaschkoallee",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 18,
+        "Sachbeschädigung": 3,
+        "Drogen": 6,
+        "Ticket-Betrug": 123,
+        "Sonstiges": 5,
+        "Gesamt": 165,
+        "Gesamt2": 37
+    },{
+        "Bahnhof": "Blissestr.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 38,
+        "Sachbeschädigung": 4,
+        "Drogen": 3,
+        "Ticket-Betrug": 94,
+        "Sonstiges": 7,
+        "Gesamt": 148,
+        "Gesamt2": 47
+    },{
+        "Bahnhof": "Boddinstr.",
+        "Gewalt": 20,
+        "Diebstahl & Einbruch": 93,
+        "Sachbeschädigung": 30,
+        "Drogen": 11,
+        "Ticket-Betrug": 133,
+        "Sonstiges": 14,
+        "Gesamt": 301,
+        "Gesamt2": 154
+    },{
+        "Bahnhof": "Borsigwerke",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 4,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 17,
+        "Sonstiges": "-",
+        "Gesamt": 26,
+        "Gesamt2": 9
+    },{
+        "Bahnhof": "Brandenburger Tor",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 18,
+        "Sachbeschädigung": "-",
+        "Drogen": "-",
+        "Ticket-Betrug": 1,
+        "Sonstiges": 2,
+        "Gesamt": 22,
+        "Gesamt2": 19
+    },{
+        "Bahnhof": "Breitenbachplatz",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 13,
+        "Sachbeschädigung": 34,
+        "Drogen": "-",
+        "Ticket-Betrug": 10,
+        "Sonstiges": 5,
+        "Gesamt": 64,
+        "Gesamt2": 49
+    },{
+        "Bahnhof": "Britz-Süd",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 16,
+        "Sachbeschädigung": 24,
+        "Drogen": 4,
+        "Ticket-Betrug": 93,
+        "Sonstiges": 5,
+        "Gesamt": 152,
+        "Gesamt2": 54
+    },{
+        "Bahnhof": "Bülowstr.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 3,
+        "Drogen": 1,
+        "Ticket-Betrug": 21,
+        "Sonstiges": 2,
+        "Gesamt": 52,
+        "Gesamt2": 29
+    },{
+        "Bahnhof": "Bundesplatz",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 32,
+        "Sachbeschädigung": 7,
+        "Drogen": "-",
+        "Ticket-Betrug": 54,
+        "Sonstiges": 2,
+        "Gesamt": 108,
+        "Gesamt2": 52
+    },{
+        "Bahnhof": "Bundestag",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 1,
+        "Sachbeschädigung": "-",
+        "Drogen": "-",
+        "Ticket-Betrug": "-",
+        "Sonstiges": "-",
+        "Gesamt": 1,
+        "Gesamt2": 1
+    },{
+        "Bahnhof": "Cottbusser Platz",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 14,
+        "Sachbeschädigung": 4,
+        "Drogen": 2,
+        "Ticket-Betrug": 47,
+        "Sonstiges": 5,
+        "Gesamt": 77,
+        "Gesamt2": 25
+    },{
+        "Bahnhof": "Dahlem-Dorf",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 6,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 2,
+        "Sonstiges": 4,
+        "Gesamt": 16,
+        "Gesamt2": 10
+    },{
+        "Bahnhof": "Deutsche Oper",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 47,
+        "Drogen": 3,
+        "Ticket-Betrug": 13,
+        "Sonstiges": 9,
+        "Gesamt": 95,
+        "Gesamt2": 73
+    },{
+        "Bahnhof": "Eberswalder Str.",
+        "Gewalt": 19,
+        "Diebstahl & Einbruch": 74,
+        "Sachbeschädigung": 11,
+        "Drogen": "-",
+        "Ticket-Betrug": 129,
+        "Sonstiges": 5,
+        "Gesamt": 238,
+        "Gesamt2": 104
+    },{
+        "Bahnhof": "Eisenacher Str.",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 30,
+        "Sachbeschädigung": 8,
+        "Drogen": 1,
+        "Ticket-Betrug": 76,
+        "Sonstiges": 4,
+        "Gesamt": 123,
+        "Gesamt2": 43
+    },{
+        "Bahnhof": "Elsterwerdaer Platz",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 26,
+        "Sachbeschädigung": 2,
+        "Drogen": 1,
+        "Ticket-Betrug": 45,
+        "Sonstiges": 3,
+        "Gesamt": 81,
+        "Gesamt2": 33
+    },{
+        "Bahnhof": "Ernst-Reuter-Platz",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 50,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 30,
+        "Sonstiges": 5,
+        "Gesamt": 91,
+        "Gesamt2": 56
+    },{
+        "Bahnhof": "Fehrbelliner Platz",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 36,
+        "Sachbeschädigung": 46,
+        "Drogen": 2,
+        "Ticket-Betrug": 140,
+        "Sonstiges": 22,
+        "Gesamt": 256,
+        "Gesamt2": 94
+    },{
+        "Bahnhof": "Frankfurter Allee",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 55,
+        "Sachbeschädigung": 42,
+        "Drogen": "-",
+        "Ticket-Betrug": 104,
+        "Sonstiges": 5,
+        "Gesamt": 219,
+        "Gesamt2": 110
+    },{
+        "Bahnhof": "Frankfurter Tor",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 39,
+        "Sachbeschädigung": 7,
+        "Drogen": 2,
+        "Ticket-Betrug": 173,
+        "Sonstiges": 7,
+        "Gesamt": 238,
+        "Gesamt2": 58
+    },{
+        "Bahnhof": "Franz-Neumann-Platz",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 25,
+        "Sachbeschädigung": 10,
+        "Drogen": 11,
+        "Ticket-Betrug": 112,
+        "Sonstiges": 7,
+        "Gesamt": 171,
+        "Gesamt2": 52
+    },{
+        "Bahnhof": "Französische Str.",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 32,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 66,
+        "Sonstiges": 6,
+        "Gesamt": 122,
+        "Gesamt2": 50
+    },{
+        "Bahnhof": "Friedrichsfelde",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 21,
+        "Sachbeschädigung": 12,
+        "Drogen": "-",
+        "Ticket-Betrug": 79,
+        "Sonstiges": "-",
+        "Gesamt": 115,
+        "Gesamt2": 36
+    },{
+        "Bahnhof": "Friedrichstr.",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 107,
+        "Sachbeschädigung": 10,
+        "Drogen": 1,
+        "Ticket-Betrug": 108,
+        "Sonstiges": 17,
+        "Gesamt": 253,
+        "Gesamt2": 128
+    },{
+        "Bahnhof": "Friedrich-Wilhelm-Platz",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 21,
+        "Sachbeschädigung": 24,
+        "Drogen": "-",
+        "Ticket-Betrug": 44,
+        "Sonstiges": 1,
+        "Gesamt": 91,
+        "Gesamt2": 46
+    },{
+        "Bahnhof": "Gesundbrunnen",
+        "Gewalt": 23,
+        "Diebstahl & Einbruch": 64,
+        "Sachbeschädigung": 7,
+        "Drogen": 23,
+        "Ticket-Betrug": 186,
+        "Sonstiges": 14,
+        "Gesamt": 317,
+        "Gesamt2": 117
+    },{
+        "Bahnhof": "Gleisdreieck",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 68,
+        "Sachbeschädigung": 8,
+        "Drogen": "-",
+        "Ticket-Betrug": 184,
+        "Sonstiges": 11,
+        "Gesamt": 280,
+        "Gesamt2": 85
+    },{
+        "Bahnhof": "Gneisenaustr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 58,
+        "Sachbeschädigung": 6,
+        "Drogen": "-",
+        "Ticket-Betrug": 106,
+        "Sonstiges": 9,
+        "Gesamt": 188,
+        "Gesamt2": 73
+    },{
+        "Bahnhof": "Görlitzer Bhf.",
+        "Gewalt": 121,
+        "Diebstahl & Einbruch": 170,
+        "Sachbeschädigung": 7,
+        "Drogen": 177,
+        "Ticket-Betrug": 438,
+        "Sonstiges": 184,
+        "Gesamt": 1097,
+        "Gesamt2": 475
+    },{
+        "Bahnhof": "Grenzallee",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 22,
+        "Sachbeschädigung": 6,
+        "Drogen": 6,
+        "Ticket-Betrug": 107,
+        "Sonstiges": 9,
+        "Gesamt": 162,
+        "Gesamt2": 46
+    },{
+        "Bahnhof": "Grottkauer Str.",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 8,
+        "Sachbeschädigung": 4,
+        "Drogen": 2,
+        "Ticket-Betrug": 42,
+        "Sonstiges": 3,
+        "Gesamt": 62,
+        "Gesamt2": 17
+    },{
+        "Bahnhof": "Güntzelstr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 7,
+        "Drogen": "-",
+        "Ticket-Betrug": 40,
+        "Sonstiges": 6,
+        "Gesamt": 79,
+        "Gesamt2": 33
+    },{
+        "Bahnhof": "Halemweg",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 12,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 54,
+        "Sonstiges": 3,
+        "Gesamt": 85,
+        "Gesamt2": 28
+    },{
+        "Bahnhof": "Hallesches Tor",
+        "Gewalt": 61,
+        "Diebstahl & Einbruch": 347,
+        "Sachbeschädigung": 12,
+        "Drogen": 3,
+        "Ticket-Betrug": 308,
+        "Sonstiges": 82,
+        "Gesamt": 813,
+        "Gesamt2": 423
+    },{
+        "Bahnhof": "Hansaplatz",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 19,
+        "Sachbeschädigung": 6,
+        "Drogen": 4,
+        "Ticket-Betrug": 137,
+        "Sonstiges": 16,
+        "Gesamt": 190,
+        "Gesamt2": 37
+    },{
+        "Bahnhof": "Haselhorst",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 24,
+        "Sachbeschädigung": 9,
+        "Drogen": "-",
+        "Ticket-Betrug": 49,
+        "Sonstiges": 6,
+        "Gesamt": 96,
+        "Gesamt2": 41
+    },{
+        "Bahnhof": "Hauptbahnhof",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 7,
+        "Sachbeschädigung": 1,
+        "Drogen": 7,
+        "Ticket-Betrug": 1,
+        "Sonstiges": 1,
+        "Gesamt": 17,
+        "Gesamt2": 15
+    },{
+        "Bahnhof": "Hausvogteiplatz",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 30,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 121,
+        "Sonstiges": 4,
+        "Gesamt": 160,
+        "Gesamt2": 35
+    },{
+        "Bahnhof": "Heidelberger Platz",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 4,
+        "Drogen": 5,
+        "Ticket-Betrug": 25,
+        "Sonstiges": 2,
+        "Gesamt": 58,
+        "Gesamt2": 31
+    },{
+        "Bahnhof": "Heinrich-Heine-Str.",
+        "Gewalt": 11,
+        "Diebstahl & Einbruch": 48,
+        "Sachbeschädigung": 9,
+        "Drogen": 19,
+        "Ticket-Betrug": 391,
+        "Sonstiges": 23,
+        "Gesamt": 501,
+        "Gesamt2": 87
+    },{
+        "Bahnhof": "Hellersdorf",
+        "Gewalt": 32,
+        "Diebstahl & Einbruch": 29,
+        "Sachbeschädigung": 10,
+        "Drogen": 3,
+        "Ticket-Betrug": 87,
+        "Sonstiges": 35,
+        "Gesamt": 196,
+        "Gesamt2": 74
+    },{
+        "Bahnhof": "Hermannplatz",
+        "Gewalt": 76,
+        "Diebstahl & Einbruch": 221,
+        "Sachbeschädigung": 28,
+        "Drogen": 48,
+        "Ticket-Betrug": 600,
+        "Sonstiges": 101,
+        "Gesamt": 1074,
+        "Gesamt2": 373
+    },{
+        "Bahnhof": "Hermannstr.",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 35,
+        "Sachbeschädigung": 1,
+        "Drogen": 4,
+        "Ticket-Betrug": 44,
+        "Sonstiges": 2,
+        "Gesamt": 91,
+        "Gesamt2": 45
+    },{
+        "Bahnhof": "Hohenzollernplatz",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 4,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 14,
+        "Sonstiges": 3,
+        "Gesamt": 23,
+        "Gesamt2": 6
+    },{
+        "Bahnhof": "Holzhauser Str.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 13,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 10,
+        "Sonstiges": "-",
+        "Gesamt": 27,
+        "Gesamt2": 17
+    },{
+        "Bahnhof": "Hönow",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 44,
+        "Sachbeschädigung": 19,
+        "Drogen": "-",
+        "Ticket-Betrug": 7,
+        "Sonstiges": "-",
+        "Gesamt": 74,
+        "Gesamt2": 67
+    },{
+        "Bahnhof": "Innsbrucker Platz",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 14,
+        "Sachbeschädigung": 5,
+        "Drogen": 1,
+        "Ticket-Betrug": 16,
+        "Sonstiges": 18,
+        "Gesamt": 62,
+        "Gesamt2": 28
+    },{
+        "Bahnhof": "Jakob-Kaiser-Platz",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 100,
+        "Sachbeschädigung": 3,
+        "Drogen": 6,
+        "Ticket-Betrug": 56,
+        "Sonstiges": 4,
+        "Gesamt": 183,
+        "Gesamt2": 123
+    },{
+        "Bahnhof": "Jannowitzbrücke",
+        "Gewalt": 26,
+        "Diebstahl & Einbruch": 34,
+        "Sachbeschädigung": 10,
+        "Drogen": 45,
+        "Ticket-Betrug": 407,
+        "Sonstiges": 33,
+        "Gesamt": 555,
+        "Gesamt2": 115
+    },{
+        "Bahnhof": "Johannisthaler Chaussee",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 18,
+        "Sachbeschädigung": 1,
+        "Drogen": 1,
+        "Ticket-Betrug": 118,
+        "Sonstiges": 8,
+        "Gesamt": 158,
+        "Gesamt2": 32
+    },{
+        "Bahnhof": "Jungfernheide",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 34,
+        "Sachbeschädigung": 2,
+        "Drogen": 7,
+        "Ticket-Betrug": 94,
+        "Sonstiges": 4,
+        "Gesamt": 155,
+        "Gesamt2": 57
+    },{
+        "Bahnhof": "Kaiserdamm",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 121,
+        "Sachbeschädigung": 2,
+        "Drogen": 1,
+        "Ticket-Betrug": 24,
+        "Sonstiges": 2,
+        "Gesamt": 153,
+        "Gesamt2": 127
+    },{
+        "Bahnhof": "Kaiserin-Augusta-Str.",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 12,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 56,
+        "Sonstiges": 1,
+        "Gesamt": 72,
+        "Gesamt2": 15
+    },{
+        "Bahnhof": "Karl-Bonhoeffer- Ner-venklinik",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 10,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 23,
+        "Sonstiges": "-",
+        "Gesamt": 42,
+        "Gesamt2": 19
+    },{
+        "Bahnhof": "Karl-Marx-Str.",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 63,
+        "Sachbeschädigung": 10,
+        "Drogen": 1,
+        "Ticket-Betrug": 121,
+        "Sonstiges": 8,
+        "Gesamt": 217,
+        "Gesamt2": 88
+    },{
+        "Bahnhof": "Kaulsdorf-Nord",
+        "Gewalt": 11,
+        "Diebstahl & Einbruch": 13,
+        "Sachbeschädigung": 20,
+        "Drogen": "-",
+        "Ticket-Betrug": 77,
+        "Sonstiges": 19,
+        "Gesamt": 140,
+        "Gesamt2": 44
+    },{
+        "Bahnhof": "Kleistpark",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 44,
+        "Sachbeschädigung": 5,
+        "Drogen": 1,
+        "Ticket-Betrug": 169,
+        "Sonstiges": 8,
+        "Gesamt": 235,
+        "Gesamt2": 58
+    },{
+        "Bahnhof": "Klosterstr.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 7,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 85,
+        "Sonstiges": 7,
+        "Gesamt": 103,
+        "Gesamt2": 11
+    },{
+        "Bahnhof": "Kochstr.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 37,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 88,
+        "Sonstiges": 8,
+        "Gesamt": 144,
+        "Gesamt2": 48
+    },{
+        "Bahnhof": "Konstanzer Str.",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 13,
+        "Sachbeschädigung": 2,
+        "Drogen": 10,
+        "Ticket-Betrug": 81,
+        "Sonstiges": 8,
+        "Gesamt": 120,
+        "Gesamt2": 31
+    },{
+        "Bahnhof": "Kottbusser Tor",
+        "Gewalt": 123,
+        "Diebstahl & Einbruch": 309,
+        "Sachbeschädigung": 22,
+        "Drogen": 49,
+        "Ticket-Betrug": 985,
+        "Sonstiges": 97,
+        "Gesamt": 1585,
+        "Gesamt2": 503
+    },{
+        "Bahnhof": "Krumme Lanke",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 14,
+        "Sachbeschädigung": 51,
+        "Drogen": "-",
+        "Ticket-Betrug": 8,
+        "Sonstiges": 2,
+        "Gesamt": 77,
+        "Gesamt2": 67
+    },{
+        "Bahnhof": "Kurfürstendamm",
+        "Gewalt": 38,
+        "Diebstahl & Einbruch": 79,
+        "Sachbeschädigung": 10,
+        "Drogen": 2,
+        "Ticket-Betrug": 131,
+        "Sonstiges": 17,
+        "Gesamt": 277,
+        "Gesamt2": 129
+    },{
+        "Bahnhof": "Kurfürstenstr.",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 28,
+        "Sachbeschädigung": 3,
+        "Drogen": 5,
+        "Ticket-Betrug": 149,
+        "Sonstiges": 2,
+        "Gesamt": 197,
+        "Gesamt2": 46
+    },{
+        "Bahnhof": "Kurt-Schumacher-Platz",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 76,
+        "Sachbeschädigung": 16,
+        "Drogen": 1,
+        "Ticket-Betrug": 99,
+        "Sonstiges": 3,
+        "Gesamt": 201,
+        "Gesamt2": 99
+    },{
+        "Bahnhof": "Leinestr.",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 11,
+        "Sachbeschädigung": 3,
+        "Drogen": 3,
+        "Ticket-Betrug": 36,
+        "Sonstiges": 4,
+        "Gesamt": 60,
+        "Gesamt2": 20
+    },{
+        "Bahnhof": "Leopoldplatz",
+        "Gewalt": 45,
+        "Diebstahl & Einbruch": 118,
+        "Sachbeschädigung": 30,
+        "Drogen": 19,
+        "Ticket-Betrug": 438,
+        "Sonstiges": 49,
+        "Gesamt": 699,
+        "Gesamt2": 212
+    },{
+        "Bahnhof": "Lichtenberg",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 31,
+        "Sachbeschädigung": 5,
+        "Drogen": "-",
+        "Ticket-Betrug": 111,
+        "Sonstiges": 8,
+        "Gesamt": 169,
+        "Gesamt2": 50
+    },{
+        "Bahnhof": "Lindauer Allee",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 6,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 34,
+        "Sonstiges": "-",
+        "Gesamt": 43,
+        "Gesamt2": 9
+    },{
+        "Bahnhof": "Lipschitzallee",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 18,
+        "Sachbeschädigung": 2,
+        "Drogen": 2,
+        "Ticket-Betrug": 58,
+        "Sonstiges": 1,
+        "Gesamt": 85,
+        "Gesamt2": 26
+    },{
+        "Bahnhof": "Louis-Lewin-Str.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 6,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 17,
+        "Sonstiges": 2,
+        "Gesamt": 31,
+        "Gesamt2": 12
+    },{
+        "Bahnhof": "Magdalenenstr.",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 15,
+        "Sachbeschädigung": 1,
+        "Drogen": 1,
+        "Ticket-Betrug": 80,
+        "Sonstiges": 2,
+        "Gesamt": 103,
+        "Gesamt2": 21
+    },{
+        "Bahnhof": "Märkisches Museum",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 20,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 75,
+        "Sonstiges": 2,
+        "Gesamt": 104,
+        "Gesamt2": 27
+    },{
+        "Bahnhof": "Mehringdamm",
+        "Gewalt": 34,
+        "Diebstahl & Einbruch": 118,
+        "Sachbeschädigung": 10,
+        "Drogen": 1,
+        "Ticket-Betrug": 207,
+        "Sonstiges": 22,
+        "Gesamt": 392,
+        "Gesamt2": 163
+    },{
+        "Bahnhof": "Mendelssohn-Bartholdy-Park",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 16,
+        "Sachbeschädigung": 5,
+        "Drogen": 2,
+        "Ticket-Betrug": 43,
+        "Sonstiges": 5,
+        "Gesamt": 73,
+        "Gesamt2": 25
+    },{
+        "Bahnhof": "Mierendorffplatz",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 26,
+        "Sachbeschädigung": 5,
+        "Drogen": 5,
+        "Ticket-Betrug": 72,
+        "Sonstiges": 10,
+        "Gesamt": 122,
+        "Gesamt2": 40
+    },{
+        "Bahnhof": "Möckernbrücke",
+        "Gewalt": 30,
+        "Diebstahl & Einbruch": 83,
+        "Sachbeschädigung": 10,
+        "Drogen": 2,
+        "Ticket-Betrug": 345,
+        "Sonstiges": 24,
+        "Gesamt": 494,
+        "Gesamt2": 125
+    },{
+        "Bahnhof": "Mohrenstr.",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 24,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 131,
+        "Sonstiges": 4,
+        "Gesamt": 162,
+        "Gesamt2": 27
+    },{
+        "Bahnhof": "Moritzplatz",
+        "Gewalt": 20,
+        "Diebstahl & Einbruch": 106,
+        "Sachbeschädigung": 8,
+        "Drogen": 31,
+        "Ticket-Betrug": 509,
+        "Sonstiges": 40,
+        "Gesamt": 714,
+        "Gesamt2": 165
+    },{
+        "Bahnhof": "Naturkundemuseum",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 43,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 106,
+        "Sonstiges": 3,
+        "Gesamt": 160,
+        "Gesamt2": 51
+    },{
+        "Bahnhof": "Nauener Platz",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 26,
+        "Sachbeschädigung": 3,
+        "Drogen": 12,
+        "Ticket-Betrug": 345,
+        "Sonstiges": 11,
+        "Gesamt": 410,
+        "Gesamt2": 54
+    },{
+        "Bahnhof": "Neukölln",
+        "Gewalt": 40,
+        "Diebstahl & Einbruch": 119,
+        "Sachbeschädigung": 5,
+        "Drogen": 35,
+        "Ticket-Betrug": 179,
+        "Sonstiges": 21,
+        "Gesamt": 399,
+        "Gesamt2": 199
+    },{
+        "Bahnhof": "Neu-Westend",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 6,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 3,
+        "Sonstiges": 2,
+        "Gesamt": 13,
+        "Gesamt2": 8
+    },{
+        "Bahnhof": "Nollendorfplatz",
+        "Gewalt": 26,
+        "Diebstahl & Einbruch": 78,
+        "Sachbeschädigung": 16,
+        "Drogen": 6,
+        "Ticket-Betrug": 116,
+        "Sonstiges": 23,
+        "Gesamt": 265,
+        "Gesamt2": 126
+    },{
+        "Bahnhof": "Olympiastadion",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 3,
+        "Sachbeschädigung": 6,
+        "Drogen": "-",
+        "Ticket-Betrug": 1,
+        "Sonstiges": 4,
+        "Gesamt": 18,
+        "Gesamt2": 13
+    },{
+        "Bahnhof": "Onkel-Toms-Hütte",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 3,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 4,
+        "Sonstiges": 4,
+        "Gesamt": 14,
+        "Gesamt2": 6
+    },{
+        "Bahnhof": "Oranienburger Tor",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 34,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 102,
+        "Sonstiges": 1,
+        "Gesamt": 144,
+        "Gesamt2": 41
+    },{
+        "Bahnhof": "Oskar-Helene-Heim",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 4,
+        "Sachbeschädigung": 2,
+        "Drogen": "-",
+        "Ticket-Betrug": 4,
+        "Sonstiges": "-",
+        "Gesamt": 10,
+        "Gesamt2": 6
+    },{
+        "Bahnhof": "Osloer Str.",
+        "Gewalt": 75,
+        "Diebstahl & Einbruch": 155,
+        "Sachbeschädigung": 27,
+        "Drogen": 31,
+        "Ticket-Betrug": 410,
+        "Sonstiges": 54,
+        "Gesamt": 752,
+        "Gesamt2": 288
+    },{
+        "Bahnhof": "Otisstr.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 4,
+        "Sachbeschädigung": 4,
+        "Drogen": 1,
+        "Ticket-Betrug": 12,
+        "Sonstiges": 1,
+        "Gesamt": 24,
+        "Gesamt2": 11
+    },{
+        "Bahnhof": "Pankow",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 45,
+        "Sachbeschädigung": 20,
+        "Drogen": 3,
+        "Ticket-Betrug": 44,
+        "Sonstiges": 5,
+        "Gesamt": 126,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Pankstr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 60,
+        "Sachbeschädigung": 1,
+        "Drogen": 11,
+        "Ticket-Betrug": 234,
+        "Sonstiges": 14,
+        "Gesamt": 329,
+        "Gesamt2": 81
+    },{
+        "Bahnhof": "Paracelsus-Bad",
+        "Gewalt": 7,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 30,
+        "Drogen": 3,
+        "Ticket-Betrug": 34,
+        "Sonstiges": 8,
+        "Gesamt": 99,
+        "Gesamt2": 57
+    },{
+        "Bahnhof": "Paradestr.",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 3,
+        "Sachbeschädigung": 2,
+        "Drogen": 1,
+        "Ticket-Betrug": 49,
+        "Sonstiges": 3,
+        "Gesamt": 60,
+        "Gesamt2": 8
+    },{
+        "Bahnhof": "Parchimer Allee",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 23,
+        "Sachbeschädigung": 7,
+        "Drogen": 5,
+        "Ticket-Betrug": 78,
+        "Sonstiges": 1,
+        "Gesamt": 118,
+        "Gesamt2": 39
+    },{
+        "Bahnhof": "Paulsternstr.",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 11,
+        "Sachbeschädigung": 1,
+        "Drogen": 3,
+        "Ticket-Betrug": 35,
+        "Sonstiges": 4,
+        "Gesamt": 60,
+        "Gesamt2": 21
+    },{
+        "Bahnhof": "Platz der Luftbrücke",
+        "Gewalt": 17,
+        "Diebstahl & Einbruch": 35,
+        "Sachbeschädigung": 6,
+        "Drogen": "-",
+        "Ticket-Betrug": 67,
+        "Sonstiges": 5,
+        "Gesamt": 130,
+        "Gesamt2": 58
+    },{
+        "Bahnhof": "Podbielskiallee",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 2,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 3,
+        "Sonstiges": "-",
+        "Gesamt": 11,
+        "Gesamt2": 8
+    },{
+        "Bahnhof": "Potsdamer Platz",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 120,
+        "Sachbeschädigung": 23,
+        "Drogen": 1,
+        "Ticket-Betrug": 112,
+        "Sonstiges": 8,
+        "Gesamt": 272,
+        "Gesamt2": 152
+    },{
+        "Bahnhof": "Prinzenstr.",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 54,
+        "Sachbeschädigung": 3,
+        "Drogen": 7,
+        "Ticket-Betrug": 205,
+        "Sonstiges": 12,
+        "Gesamt": 294,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Rathaus Neukölln",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 97,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 133,
+        "Sonstiges": 6,
+        "Gesamt": 249,
+        "Gesamt2": 110
+    },{
+        "Bahnhof": "Rathaus Reinickendorf",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 18,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 30,
+        "Sonstiges": "-",
+        "Gesamt": 51,
+        "Gesamt2": 21
+    },{
+        "Bahnhof": "Rathaus Schöneberg",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 5,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 10,
+        "Sonstiges": 1,
+        "Gesamt": 22,
+        "Gesamt2": 11
+    },{
+        "Bahnhof": "Rathaus Spandau",
+        "Gewalt": 22,
+        "Diebstahl & Einbruch": 102,
+        "Sachbeschädigung": 14,
+        "Drogen": 4,
+        "Ticket-Betrug": 58,
+        "Sonstiges": 19,
+        "Gesamt": 219,
+        "Gesamt2": 142
+    },{
+        "Bahnhof": "Rathaus Steglitz",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 56,
+        "Sachbeschädigung": 31,
+        "Drogen": 2,
+        "Ticket-Betrug": 35,
+        "Sonstiges": 7,
+        "Gesamt": 145,
+        "Gesamt2": 103
+    },{
+        "Bahnhof": "Rehberge",
+        "Gewalt": 7,
+        "Diebstahl & Einbruch": 27,
+        "Sachbeschädigung": 2,
+        "Drogen": 9,
+        "Ticket-Betrug": 136,
+        "Sonstiges": 8,
+        "Gesamt": 189,
+        "Gesamt2": 45
+    },{
+        "Bahnhof": "Reinickendorfer Str.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 22,
+        "Sachbeschädigung": 3,
+        "Drogen": 2,
+        "Ticket-Betrug": 128,
+        "Sonstiges": 4,
+        "Gesamt": 167,
+        "Gesamt2": 35
+    },{
+        "Bahnhof": "Residenzstr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 29,
+        "Sachbeschädigung": 6,
+        "Drogen": 3,
+        "Ticket-Betrug": 73,
+        "Sonstiges": 6,
+        "Gesamt": 126,
+        "Gesamt2": 47
+    },{
+        "Bahnhof": "Richard-Wagner-Platz",
+        "Gewalt": 17,
+        "Diebstahl & Einbruch": 41,
+        "Sachbeschädigung": 7,
+        "Drogen": 12,
+        "Ticket-Betrug": 82,
+        "Sonstiges": 10,
+        "Gesamt": 169,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Rohrdamm",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 15,
+        "Sachbeschädigung": 31,
+        "Drogen": "-",
+        "Ticket-Betrug": 66,
+        "Sonstiges": 5,
+        "Gesamt": 121,
+        "Gesamt2": 50
+    },{
+        "Bahnhof": "Rosa-Luxemburg-Platz",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 29,
+        "Sachbeschädigung": 45,
+        "Drogen": 2,
+        "Ticket-Betrug": 135,
+        "Sonstiges": 4,
+        "Gesamt": 216,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Rosenthaler Platz",
+        "Gewalt": 21,
+        "Diebstahl & Einbruch": 87,
+        "Sachbeschädigung": 11,
+        "Drogen": 14,
+        "Ticket-Betrug": 291,
+        "Sonstiges": 28,
+        "Gesamt": 452,
+        "Gesamt2": 133
+    },{
+        "Bahnhof": "Rüdesheimer Platz",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 5,
+        "Sachbeschädigung": 5,
+        "Drogen": 1,
+        "Ticket-Betrug": 7,
+        "Sonstiges": 5,
+        "Gesamt": 24,
+        "Gesamt2": 12
+    },{
+        "Bahnhof": "Rudow",
+        "Gewalt": 11,
+        "Diebstahl & Einbruch": 48,
+        "Sachbeschädigung": 12,
+        "Drogen": "-",
+        "Ticket-Betrug": 19,
+        "Sonstiges": 6,
+        "Gesamt": 96,
+        "Gesamt2": 71
+    },{
+        "Bahnhof": "Ruhleben",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 22,
+        "Sachbeschädigung": 13,
+        "Drogen": "-",
+        "Ticket-Betrug": "-",
+        "Sonstiges": 2,
+        "Gesamt": 41,
+        "Gesamt2": 39
+    },{
+        "Bahnhof": "Samariterstr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 53,
+        "Sachbeschädigung": 9,
+        "Drogen": 1,
+        "Ticket-Betrug": 94,
+        "Sonstiges": 6,
+        "Gesamt": 172,
+        "Gesamt2": 72
+    },{
+        "Bahnhof": "Scharnweberstraße",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 15,
+        "Sachbeschädigung": 5,
+        "Drogen": 6,
+        "Ticket-Betrug": 43,
+        "Sonstiges": 2,
+        "Gesamt": 73,
+        "Gesamt2": 28
+    },{
+        "Bahnhof": "Schillingstr.",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 11,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 70,
+        "Sonstiges": 2,
+        "Gesamt": 90,
+        "Gesamt2": 18
+    },{
+        "Bahnhof": "Schlesisches Tor",
+        "Gewalt": 35,
+        "Diebstahl & Einbruch": 164,
+        "Sachbeschädigung": 17,
+        "Drogen": 5,
+        "Ticket-Betrug": 487,
+        "Sonstiges": 25,
+        "Gesamt": 733,
+        "Gesamt2": 221
+    },{
+        "Bahnhof": "Schloßstr.",
+        "Gewalt": 8,
+        "Diebstahl & Einbruch": 39,
+        "Sachbeschädigung": 5,
+        "Drogen": "-",
+        "Ticket-Betrug": 32,
+        "Sonstiges": 7,
+        "Gesamt": 91,
+        "Gesamt2": 52
+    },{
+        "Bahnhof": "Schönhauser Allee",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 58,
+        "Sachbeschädigung": 7,
+        "Drogen": "-",
+        "Ticket-Betrug": 66,
+        "Sonstiges": 4,
+        "Gesamt": 138,
+        "Gesamt2": 68
+    },{
+        "Bahnhof": "Schönleinstr.",
+        "Gewalt": 20,
+        "Diebstahl & Einbruch": 81,
+        "Sachbeschädigung": 8,
+        "Drogen": 11,
+        "Ticket-Betrug": 602,
+        "Sonstiges": 23,
+        "Gesamt": 745,
+        "Gesamt2": 120
+    },{
+        "Bahnhof": "Schwartzkopffstr.",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 10,
+        "Sachbeschädigung": 2,
+        "Drogen": 1,
+        "Ticket-Betrug": 95,
+        "Sonstiges": 5,
+        "Gesamt": 117,
+        "Gesamt2": 17
+    },{
+        "Bahnhof": "Seestr.",
+        "Gewalt": 11,
+        "Diebstahl & Einbruch": 39,
+        "Sachbeschädigung": 16,
+        "Drogen": 5,
+        "Ticket-Betrug": 120,
+        "Sonstiges": 7,
+        "Gesamt": 198,
+        "Gesamt2": 71
+    },{
+        "Bahnhof": "Senefelderplatz",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 45,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 100,
+        "Sonstiges": 3,
+        "Gesamt": 153,
+        "Gesamt2": 50
+    },{
+        "Bahnhof": "Siemensdamm",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 16,
+        "Sachbeschädigung": 3,
+        "Drogen": "-",
+        "Ticket-Betrug": 81,
+        "Sonstiges": 4,
+        "Gesamt": 109,
+        "Gesamt2": 24
+    },{
+        "Bahnhof": "Sophie-Charlotte-Platz",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 27,
+        "Sachbeschädigung": 2,
+        "Drogen": 1,
+        "Ticket-Betrug": 44,
+        "Sonstiges": 3,
+        "Gesamt": 79,
+        "Gesamt2": 32
+    },{
+        "Bahnhof": "Spichernstr.",
+        "Gewalt": 11,
+        "Diebstahl & Einbruch": 19,
+        "Sachbeschädigung": 18,
+        "Drogen": 5,
+        "Ticket-Betrug": 73,
+        "Sonstiges": 16,
+        "Gesamt": 142,
+        "Gesamt2": 53
+    },{
+        "Bahnhof": "Spittelmarkt",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 35,
+        "Sachbeschädigung": 41,
+        "Drogen": "-",
+        "Ticket-Betrug": 101,
+        "Sonstiges": 1,
+        "Gesamt": 182,
+        "Gesamt2": 80
+    },{
+        "Bahnhof": "Stadtmitte",
+        "Gewalt": 14,
+        "Diebstahl & Einbruch": 142,
+        "Sachbeschädigung": 5,
+        "Drogen": "-",
+        "Ticket-Betrug": 234,
+        "Sonstiges": 15,
+        "Gesamt": 410,
+        "Gesamt2": 161
+    },{
+        "Bahnhof": "Strausberger Platz",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 16,
+        "Sachbeschädigung": 10,
+        "Drogen": "-",
+        "Ticket-Betrug": 88,
+        "Sonstiges": 1,
+        "Gesamt": 119,
+        "Gesamt2": 30
+    },{
+        "Bahnhof": "Südstern",
+        "Gewalt": 13,
+        "Diebstahl & Einbruch": 48,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 118,
+        "Sonstiges": 9,
+        "Gesamt": 192,
+        "Gesamt2": 65
+    },{
+        "Bahnhof": "Tempelhof",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 25,
+        "Sachbeschädigung": 40,
+        "Drogen": 2,
+        "Ticket-Betrug": 92,
+        "Sonstiges": 9,
+        "Gesamt": 178,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Theodor-Heuss-Platz",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 15,
+        "Sachbeschädigung": 14,
+        "Drogen": "-",
+        "Ticket-Betrug": 8,
+        "Sonstiges": 1,
+        "Gesamt": 43,
+        "Gesamt2": 34
+    },{
+        "Bahnhof": "Thielplatz",
+        "Gewalt": "-",
+        "Diebstahl & Einbruch": 5,
+        "Sachbeschädigung": 6,
+        "Drogen": "-",
+        "Ticket-Betrug": 6,
+        "Sonstiges": 2,
+        "Gesamt": 19,
+        "Gesamt2": 11
+    },{
+        "Bahnhof": "Tierpark",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 41,
+        "Sachbeschädigung": 18,
+        "Drogen": 2,
+        "Ticket-Betrug": 96,
+        "Sonstiges": 6,
+        "Gesamt": 173,
+        "Gesamt2": 71
+    },{
+        "Bahnhof": "Turmstr.",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 68,
+        "Sachbeschädigung": 5,
+        "Drogen": 14,
+        "Ticket-Betrug": 245,
+        "Sonstiges": 10,
+        "Gesamt": 352,
+        "Gesamt2": 97
+    },{
+        "Bahnhof": "Uhlandstr.",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": 41,
+        "Sachbeschädigung": 14,
+        "Drogen": 1,
+        "Ticket-Betrug": 16,
+        "Sonstiges": 8,
+        "Gesamt": 84,
+        "Gesamt2": 60
+    },{
+        "Bahnhof": "Ullsteinstr.",
+        "Gewalt": 5,
+        "Diebstahl & Einbruch": 13,
+        "Sachbeschädigung": 6,
+        "Drogen": 1,
+        "Ticket-Betrug": 66,
+        "Sonstiges": 2,
+        "Gesamt": 93,
+        "Gesamt2": 25
+    },{
+        "Bahnhof": "Viktoria-Luise-Platz",
+        "Gewalt": 4,
+        "Diebstahl & Einbruch": "-",
+        "Sachbeschädigung": 4,
+        "Drogen": 1,
+        "Ticket-Betrug": 6,
+        "Sonstiges": 2,
+        "Gesamt": 17,
+        "Gesamt2": 9
+    },{
+        "Bahnhof": "Vinetastr.",
+        "Gewalt": 3,
+        "Diebstahl & Einbruch": 9,
+        "Sachbeschädigung": 4,
+        "Drogen": "-",
+        "Ticket-Betrug": 52,
+        "Sonstiges": 2,
+        "Gesamt": 70,
+        "Gesamt2": 16
+    },{
+        "Bahnhof": "Voltastr.",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 3,
+        "Drogen": 1,
+        "Ticket-Betrug": 142,
+        "Sonstiges": 3,
+        "Gesamt": 176,
+        "Gesamt2": 31
+    },{
+        "Bahnhof": "Walther-Schreiber-Platz",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 35,
+        "Sachbeschädigung": 8,
+        "Drogen": "-",
+        "Ticket-Betrug": 57,
+        "Sonstiges": 1,
+        "Gesamt": 107,
+        "Gesamt2": 49
+    },{
+        "Bahnhof": "Warschauer Str.",
+        "Gewalt": 49,
+        "Diebstahl & Einbruch": 159,
+        "Sachbeschädigung": 62,
+        "Drogen": 7,
+        "Ticket-Betrug": 264,
+        "Sonstiges": 36,
+        "Gesamt": 577,
+        "Gesamt2": 277
+    },{
+        "Bahnhof": "Weberwiese",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 16,
+        "Sachbeschädigung": 5,
+        "Drogen": "-",
+        "Ticket-Betrug": 77,
+        "Sonstiges": 1,
+        "Gesamt": 108,
+        "Gesamt2": 30
+    },{
+        "Bahnhof": "Wedding",
+        "Gewalt": 10,
+        "Diebstahl & Einbruch": 47,
+        "Sachbeschädigung": 25,
+        "Drogen": 4,
+        "Ticket-Betrug": 187,
+        "Sonstiges": 7,
+        "Gesamt": 280,
+        "Gesamt2": 86
+    },{
+        "Bahnhof": "Weinmeisterstr.",
+        "Gewalt": 12,
+        "Diebstahl & Einbruch": 53,
+        "Sachbeschädigung": 5,
+        "Drogen": 2,
+        "Ticket-Betrug": 435,
+        "Sonstiges": 3,
+        "Gesamt": 510,
+        "Gesamt2": 72
+    },{
+        "Bahnhof": "Westhafen",
+        "Gewalt": 15,
+        "Diebstahl & Einbruch": 21,
+        "Sachbeschädigung": 5,
+        "Drogen": 22,
+        "Ticket-Betrug": 176,
+        "Sonstiges": 12,
+        "Gesamt": 251,
+        "Gesamt2": 63
+    },{
+        "Bahnhof": "Westphalweg",
+        "Gewalt": 6,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 3,
+        "Drogen": 1,
+        "Ticket-Betrug": 40,
+        "Sonstiges": 1,
+        "Gesamt": 68,
+        "Gesamt2": 27
+    },{
+        "Bahnhof": "Wilmersdorfer Str.",
+        "Gewalt": 31,
+        "Diebstahl & Einbruch": 85,
+        "Sachbeschädigung": 8,
+        "Drogen": 65,
+        "Ticket-Betrug": 162,
+        "Sonstiges": 62,
+        "Gesamt": 413,
+        "Gesamt2": 189
+    },{
+        "Bahnhof": "Wittenau",
+        "Gewalt": 20,
+        "Diebstahl & Einbruch": 60,
+        "Sachbeschädigung": 10,
+        "Drogen": "-",
+        "Ticket-Betrug": 42,
+        "Sonstiges": 6,
+        "Gesamt": 138,
+        "Gesamt2": 90
+    },{
+        "Bahnhof": "Wittenbergplatz",
+        "Gewalt": 24,
+        "Diebstahl & Einbruch": 117,
+        "Sachbeschädigung": 6,
+        "Drogen": 2,
+        "Ticket-Betrug": 114,
+        "Sonstiges": 17,
+        "Gesamt": 280,
+        "Gesamt2": 149
+    },{
+        "Bahnhof": "Wuhletal",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 29,
+        "Sachbeschädigung": 7,
+        "Drogen": "-",
+        "Ticket-Betrug": 50,
+        "Sonstiges": 4,
+        "Gesamt": 92,
+        "Gesamt2": 38
+    },{
+        "Bahnhof": "Wutzkyallee",
+        "Gewalt": 2,
+        "Diebstahl & Einbruch": 17,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 40,
+        "Sonstiges": 3,
+        "Gesamt": 63,
+        "Gesamt2": 20
+    },{
+        "Bahnhof": "Yorckstr.",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 58,
+        "Sachbeschädigung": 9,
+        "Drogen": 1,
+        "Ticket-Betrug": 156,
+        "Sonstiges": 13,
+        "Gesamt": 246,
+        "Gesamt2": 77
+    },{
+        "Bahnhof": "Zitadelle",
+        "Gewalt": 1,
+        "Diebstahl & Einbruch": 6,
+        "Sachbeschädigung": 1,
+        "Drogen": 2,
+        "Ticket-Betrug": 49,
+        "Sonstiges": 3,
+        "Gesamt": 62,
+        "Gesamt2": 10
+    },{
+        "Bahnhof": "Zoologischer Garten",
+        "Gewalt": 87,
+        "Diebstahl & Einbruch": 185,
+        "Sachbeschädigung": 51,
+        "Drogen": 13,
+        "Ticket-Betrug": 182,
+        "Sonstiges": 88,
+        "Gesamt": 606,
+        "Gesamt2": 336
+    },{
+        "Bahnhof": "Zwickauer Damm",
+        "Gewalt": 9,
+        "Diebstahl & Einbruch": 19,
+        "Sachbeschädigung": 1,
+        "Drogen": "-",
+        "Ticket-Betrug": 21,
+        "Sonstiges": 1,
+        "Gesamt": 51,
+        "Gesamt2": 29
+    }
+]
